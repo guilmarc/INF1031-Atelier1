@@ -1,0 +1,185 @@
+[
+ { 
+   "category":"Restaurants",
+   "list": [
+            { "name":"Il Circo Pâtes Et Passion",
+              "address":"1140 Rue Saint Prosper Trois-Rivières, QC G9A 3W1",
+              "website":"http://www.restaurantilcirco.com/",
+              "phone":"(819) 374-0008",
+              "latlon":[46.347687,-72.546806]
+            },
+            { "name":"Restaurant Au Four A Bois",
+              "address":"329 Rue Laviolette Trois-Rivières, QC G9A 1V1",
+              "website":"http://www.aufourabois.ca",
+              "phone":"(819) 373-3686",
+              "latlon":[46.346739,-72.541313]
+            },
+            { "name":"Resto St-Roch",
+              "address":"307 Rue Saint Roch Trois-Rivieres, QC G9A 2L6",
+              "website":"http://resto-grill-st-roch.ca/",
+              "phone":"(819) 374-1002",
+              "latlon":[46.341821,-72.544231]
+            },
+            { "name":"Pacini",
+              "address":"3480 Boulevard des Forges  Trois-Rivières, QC G8Y 5H5",
+              "website":"http://www.pacini.ca/restaurants/",
+              "phone":"(819) 378-0882",
+              "latlon":[46.354441,-72.579336]
+            }
+          ]
+  },
+  
+  { 
+   "category":"Cinema",
+   "list": [
+            { "name":"Tapis Rouge",
+              "address":"1140 Rue Saint Prosper Trois-Rivières, QC G9A 3W1",
+              "website":"http://www.cinemaletapisrouge.com/",
+              "phone":"(819) 840-2540",
+              "latlon":[46.342473,-72.552642]
+            },
+            { "name":"C3 Image Inc",
+              "address":"1850 Rue Bellefeuille Trois-Rivières, QC G9A 3Y2",
+              "website":"",
+              "phone":"(819) 373-3821",
+              "latlon":[46.327776,-72.569551]
+              
+            },
+            { "name":"Cinema du Cap",
+              "address":"300 Rue Barkoff Trois-Rivières, QC",
+              "website":"",
+              "phone":"(819) 693-9899",
+              "latlon":[46.377539,-72.558694]
+              
+            }
+            
+          ]
+  },
+  
+  { 
+   "category":"Hotels",
+   "list": [
+            { "name":"Delta",
+              "address":"1620 Rue Notre Dame Centre Trois-Rivières, QC G9A 6E5",
+              "website":"https://www.deltahotels.com",
+              "phone":"(819) 376-1991",
+              "latlon":[46.341940, -72.542365]
+            },
+            { "name":"Gouverneur",
+              "address":"975 Rue Hart Trois-Rivières, QC G9A 4S3",
+              "website":"http://www.gouverneur.com/",
+              "phone":" (888) 910-1111",
+              "latlon":[46.346383, -72.541335]
+            },
+            { "name":"Appart Hotel",
+              "address":"1227 Rue Sainte-Julie Trois-Rivières, QC G9A 1Y7",
+              "website":"http://www.apparthoteltroisrivieres.com/ ",
+              "phone":"(819) 244-4203",
+              "latlon":[46.352012, -72.549746]
+            },
+            { "name":"Gîte Saint-Laurent",
+              "address":"551 Notre-Dame Ouest Rue Trois-Rivières-Ouest, QC",
+              "website":"http://www.bbsaint-laurent.ca/ 4",
+              "phone":"(819) 378-3533",
+              "latlon":[46.322620, -72.561934]
+            },
+             { "name":"Comfort Inn",
+              "address":"6255 Rue Corbeil  rois-Rivières, QC G8Z 4P",
+              "website":"http://www.comfortinn.com/",
+              "phone":"(819) 371-3566",
+              "latlon":[46.330147, -72.595322]
+            }
+          ]
+  },
+  
+  { 
+   "category":"Café",
+   "list": [
+            { "name":"Café Bistro Chasse Galerie",
+              "address":"3351 Boulevard des Forges Trois-Rivieres, QC G8Z 4M3",
+              "website":"",
+              "phone":"(819) 375-3387",
+              "latlon":[46.349524, -72.577212]
+            },
+            
+            { "name":"Le Bucafin ",
+              "address":"920 Bd du St Maurice Trois-Rivières, QC G9A 3P9",
+              "website":"hhttp://lebucafin.ca/",
+              "phone":"(819) 376-2122",
+              "latlon":[46.352367, -72.548888]
+            },
+            { "name":"Café Morgane des Forges",
+              "address":"3790 Boulevard des Forges Trois-Rivieres, QC G8Y 4R2",
+              "website":"",
+              "phone":"(819) 375-8821",
+              "latlon":[46.356277, -72.582534]
+            },
+            { "name":"Nord-Ouest Café",
+              "address":"1441 Rue Notre Dame Centre Trois-Rivieres, QC G9A 4X4",
+              "website":"",
+              "phone":"(819) 693-1151",
+              "latlon":[46.343480, -72.540391]
+            }
+          ]
+  },
+  
+  { 
+   "category":"Hopitaux",
+   "list": [
+            { "name":"CHR de Trois-Rivières",
+              "address":"1991 Boulevard du Carmel Trois-Rivieres, QC G8Z 3R9",
+              "website":"http://www.cssstr.qc.ca/",
+              "phone":"(819) 697-3333",
+              "latlon":[46.349524, -72.577212]
+            },
+            
+            { "name":"CSSS de Trois-Rivières",
+              "address":"435 Rue Saint Roch Trois-Rivieres, QC G9A 2L9",
+              "website":"http://www.cssstr.qc.ca/",
+              "phone":"(819) 376-2566",
+              "latlon":[46.352367, -72.548888]
+            },
+            { "name":"CSSS de Trois-Rivières",
+              "address":"155 Rue Toupin Trois-Rivières, QC H1Z 1G1",
+              "website":"http://www.cssstr.qc.ca/",
+              "phone":"(819) 370-2100",
+              "latlon":[46.356277, -72.582534]
+            },
+            { "name":"Biron Laboratoire Médical",
+              "address":"10 place de la Rosalie Trois-Rivières, QC G9A 5K2",
+              "website":"http://www.biron.ca/",
+              "phone":"(819) 373-0306",
+              "latlon":[46.343480, -72.540391]
+            }
+          ]
+  },
+  { 
+   "category":"Parcs",
+   "list": [
+            { "name":"Parc De L'Ile Saint-Quentin",
+              "address":"10 place de la Rosalie Trois-Rivières, QC G9A 5K2",
+              "website":"http://www.ilesaintquentin.com/",
+              "phone":"(819) 373-8151",
+              "latlon":[46.343480, -72.540391]
+            },
+            { "name":"Parc Pie-XII",
+              "address":"Trois-Rivières, QC",
+              "website":"",
+              "phone":"",
+              "latlon":[46.343480, -72.540391]
+            },
+            { "name":"Camping Domaine Au Grand R Inc",
+              "address":"761 des Prairies Cap-de-la-Madeleine, QC G8T 1L8",
+              "website":"http://www.domaineaugrandr.com/",
+              "phone":"(819) 378-3723",
+              "latlon":[46.343480, -72.540391]
+            },
+            { "name":"Parc Laviolette",
+              "address":"375 Rue Després Trois-Rivières, QC G9A 5P4",
+              "website":"",
+              "phone":"",
+              "latlon":[46.343480, -72.540391]
+            }
+          ]
+  }
+]
